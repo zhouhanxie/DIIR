@@ -19,5 +19,5 @@
 
 
 - Obtaining the dialogue act classifier:
-  - Use [Huggingface Trainer](https://huggingface.co/docs/transformers/main_classes/trainer) to finetune [mental-bert](https://huggingface.co/mental/mental-bert-base-uncased)
+  - Use [Huggingface Trainer](https://huggingface.co/docs/transformers/main_classes/trainer) to finetune [mental-bert](https://huggingface.co/mental/mental-bert-base-uncased) on [dataset by Welivita et. al](https://aclanthology.org/2022.coling-1.293/). We report hyper-parameters in the appendix (and feel free to use your favorite fine-tuning codebase). 
   - Unless otherwise noted in our paper, all parameters are default parameters.
