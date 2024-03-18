@@ -1,6 +1,6 @@
 ### Code for "Few-shot Dialogue Strategy Learning for Motivational Interviewing via Inductive Reasoning"
 
-- File diretory struction:
+- File diretory structure:
   - train_agent.py
     - for learning dialogue strategies
   - inference.py
